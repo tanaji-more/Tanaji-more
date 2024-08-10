@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/tanajirao_m" target="blank"><img src="https://img.shields.io/twitter/follow/tanajirao_m?logo=twitter&style=for-the-badge" alt="tanajirao_m" /></a> </p>
 
-- 🌱 I’m currently learning **Snowflake, Python,SQL, ETL,**
+- 🌱 I’m currently learning **Snowflake, Python, SQL, ETL**
 
 - 💬 Ask me about **AWS EC2**
 
