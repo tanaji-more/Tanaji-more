@@ -5,9 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/tanajirao_m" target="blank"><img src="https://img.shields.io/twitter/follow/tanajirao_m?logo=twitter&style=for-the-badge" alt="tanajirao_m" /></a> </p>
 
-- 🌱 I’m currently learning **Snowflake, Python, SQL, ETL**
+- 🌱 Data Engineer with hands-on experience in
+Snowflake, SQL, Python, DBT, Airflow, and ETL/ELT Pipelines**
 
-- 💬 Ask me about **AWS EC2**
+- 💬 Ask me about AWS EC2, Data Warehousing, Snowflake Architecture, and Pipeline Design**
 
 - 📫 How to reach me **tanajimore33@gmail.com**
 
