@@ -80,3 +80,9 @@ Snowflake, SQL, Python, DBT, Airflow, and ETL/ELT Pipelines
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanaji-more&show_icons=true&locale=en" alt="tanaji-more" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanaji-more&" alt="tanaji-more" /></p>
+
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white)
+
