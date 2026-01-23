@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tanajimore33@gmail.com**
 
-- 📄 Know about my experiences [Tanaji-More-Resume](Tanaji-More-Resume.pdf)
+- 📄 Know about my experiences [Tanaji-More-Resume]([Tanaji-More-Resume.pdf](https://github.com/tanaji-more/Tanaji/blob/master/Tanaji-More-Resume.pdf))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
