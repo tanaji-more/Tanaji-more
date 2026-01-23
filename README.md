@@ -66,11 +66,7 @@ Snowflake, SQL, Python, DBT, Airflow, and ETL/ELT Pipelines**
   </a>
   
   <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getdbt/getdbt-icon.svg" alt="dbt" width="40" height="40"/>
-  </a>
-  
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    <img src="[https://www.vectorlogo.zone/logos/getdbt/getdbt-icon.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFzCIuPsPokbP-V0RFFgCRJqcve5gpjJmTtg&s)" alt="dbt" width="40" height="40"/>
   </a>
   
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
