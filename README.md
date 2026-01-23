@@ -66,11 +66,11 @@ Snowflake, SQL, Python, DBT, Airflow, and ETL/ELT Pipelines**
   </a>
   
   <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
-    <img src="[https://www.vectorlogo.zone/logos/getdbt/getdbt-icon.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFzCIuPsPokbP-V0RFFgCRJqcve5gpjJmTtg&s)" alt="dbt" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFzCIuPsPokbP-V0RFFgCRJqcve5gpjJmTtg&s" alt="dbt" width="40" height="40"/>
   </a>
   
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="airflow" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFzCIuPsPokbP-V0RFFgCRJqcve5gpjJmTtg&s" alt="airflow" width="40" height="40"/>
   </a>
 </p>
 
