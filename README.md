@@ -9,7 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanaji-more&label=Profile%20views&color=0e75b6&style=flat" alt="tanaji-more" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tanajirao_m" target="blank"><img src="https://img.shields.io/twitter/follow/tanajirao_m?logo=twitter&style=for-the-badge" alt="tanajirao_m" /></a> </p>
 
 - 🌱 Data Engineer with hands-on experience in
 Snowflake, SQL, Python, DBT, Airflow, and ETL/ELT Pipelines
