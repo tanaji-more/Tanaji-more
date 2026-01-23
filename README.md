@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Tanaji More</h1>
-<h3 align="center">Currently looking for new opportunities.</h3>
+<h3 align="center">Currently seeking new opportunities in Data Engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanaji-more&label=Profile%20views&color=0e75b6&style=flat" alt="tanaji-more" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tanajirao_m" target="blank"><img src="https://img.shields.io/twitter/follow/tanajirao_m?logo=twitter&style=for-the-badge" alt="tanajirao_m" /></a> </p>
 
 - 🌱 Data Engineer with hands-on experience in
-Snowflake, SQL, Python, DBT, Airflow, and ETL/ELT Pipelines**
-
-- 💬 Ask me about AWS EC2, Data Warehousing, Snowflake Architecture, and Pipeline Design**
+Snowflake, SQL, Python, DBT, Airflow, and ETL/ELT Pipelines
+ 
+- 💬 Ask me about AWS EC2, Data Warehousing, Snowflake Architecture, and Pipeline Design
 
 - 📫 How to reach me **tanajimore33@gmail.com**
 
