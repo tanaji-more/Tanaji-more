@@ -70,7 +70,7 @@ Snowflake, SQL, Python, DBT, Airflow, and ETL/ELT Pipelines**
   </a>
   
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/1*BsArmSynxzIKGYZ5h0hoKA.png" alt="airflow" width="40" height="40"/>
+    <img src="https://e7.pngegg.com/pngimages/937/843/png-clipart-airflow-airbnb-data-engineering-workflow-reflection-miscellaneous-symmetry-thumbnail.png" alt="airflow" width="40" height="40"/>
   </a>
 </p>
 
