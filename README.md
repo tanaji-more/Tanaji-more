@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tanaji More</h1>
 <h3 align="center">Currently seeking new opportunities in Data Engineering.</h3>
 
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanaji-more&label=Profile%20views&color=0e75b6&style=flat" alt="tanaji-more" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tanajirao_m" target="blank"><img src="https://img.shields.io/twitter/follow/tanajirao_m?logo=twitter&style=for-the-badge" alt="tanajirao_m" /></a> </p>
@@ -81,8 +87,4 @@ Snowflake, SQL, Python, DBT, Airflow, and ETL/ELT Pipelines
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanaji-more&" alt="tanaji-more" /></p>
 
-
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white)
 
