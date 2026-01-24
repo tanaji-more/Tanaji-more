@@ -94,6 +94,6 @@ Snowflake, SQL, Python, DBT, Airflow, and ETL/ELT Pipelines
 
 
 ## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=tanaji-more)
-
+<p>
+<img src="https://streak-stats.demolab.com/?user=tanaji-more" />
+</p>
