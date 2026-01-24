@@ -5,6 +5,11 @@
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanaji-more&label=Profile%20views&color=0e75b6&style=flat" alt="tanaji-more" /> </p>
@@ -87,13 +92,5 @@ Snowflake, SQL, Python, DBT, Airflow, and ETL/ELT Pipelines
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanaji-more&" alt="tanaji-more" /></p>
 
 
-### 🛠 Tech Stack
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-black?logo=apachekafka)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 
