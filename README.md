@@ -89,5 +89,7 @@ Snowflake, SQL, Python, DBT, Airflow, and ETL/ELT Pipelines
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanaji-more&show_icons=true&locale=en" alt="tanaji-more" /></p>
 
+## 🔥 GitHub Streak
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=tanaji-more&theme=dark&v=1)
 
