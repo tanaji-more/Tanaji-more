@@ -26,7 +26,6 @@
 # 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=tanaji-more)](https://git.io/streak-stats)
 
-![](https://nirzak-streak-stats.vercel.app/?user=tanaji-more&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanaji-more&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
