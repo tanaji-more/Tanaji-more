@@ -8,7 +8,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanaji-more&label=Profile%20views&color=0e75b6&style=flat" alt="tanaji-more" /> </p>
 
 🌱 Data Engineer with hands-on experience in Snowflake, SQL, Python, DBT, Airflow, and ETL/ELT Pipelines<br><br>💬 Ask me about AWS EC2, Data Warehousing, Snowflake Architecture, and Pipeline Design<br><br>📫 How to reach me tanajimore33@gmail.com<br><br>
